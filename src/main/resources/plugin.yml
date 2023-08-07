@@ -1,0 +1,5 @@
+name: NoSneakSpawnerBreak
+version: '1.0'
+main: dev.snowz.nosneakspawnerbreak.NoSneakSpawnerBreak
+author: SnowzNZ
+description: Prevents players from breaking spawners while sneaking
